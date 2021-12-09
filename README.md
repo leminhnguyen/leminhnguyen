@@ -3,7 +3,7 @@
 - 😄 I'm a graduate student from HUST with Software Engineering degree and getting started studying Master of Data Science.
 - 🔭 I’m currently working on End-To-End Text to Speech models and Software Development techniques like AWS.
 - 🌱 Falling in love with Data Science and Software Engineering.
-- ⚡ Results from research must be applied in real life so I'm learning more and more to brige research and development together.
+- ⚡ Results from research must be applied in real life so I'm learning more and more to bridge research and development together.
 - 💬 Ask me about something at [here](https://github.com/leminhnguyen/leminhnguyen/issues)
 
 ### Languages and Tools:

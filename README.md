@@ -1,7 +1,7 @@
 ### Hi there, I'm leminhnguyen (nguyenlm) 👋
-- 🌱 Falling in love with Data Science and Software Engineering.
-- ⚡ Results from research must be applied in real life so I'm learning more and more to bridge research and development together.
-- 💬 Ask me about something at [here](https://github.com/leminhnguyen/leminhnguyen/issues)
+```
+AI Engineer with strong experience in Natural Language Processing, LLM and Speech technologies, focusing on building and deploying production-ready AI systems for real-world applications. Experienced in developing intelligent systems that transform unstructured text and conversational (speech & text) data into actionable insights, with a growing focus on language-driven and agent-based solutions for enterprise use cases. 
+```
 
 ### Languages and Tools:
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />

@@ -1,6 +1,24 @@
-### Hi there, I'm leminhnguyen (nguyenlm) 👋
+### About Me 👋
 ```
-AI Engineer with strong experience in Natural Language Processing, LLM and Speech technologies, focusing on building and deploying production-ready AI systems for real-world applications. Experienced in developing intelligent systems that transform unstructured text and conversational (speech & text) data into actionable insights, with a growing focus on language-driven and agent-based solutions for enterprise use cases. 
+AI Engineer specializing in NLP, LLMs, and Speech technologies.
+
+I build and deploy production-grade AI systems that transform unstructured 
+text and conversational data (speech & text) into actionable insights. 
+
+Currently focusing on scalable LLM-powered systems and agent-based architectures 
+for real-world enterprise applications.
+```
+
+### 🎓 Education
+```
+Hanoi University of Science and Technology (HUST)
+- PhD Nominee
+- M.Sc. in Computer Science (2022 – 2024)
+- TOEIC: 785
+
+Hanoi University of Science and Technology (HUST)
+- B.E. in Software Engineering (2016 – 2021)
+- Valedictorian — GPA: 3.75
 ```
 
 ### Languages and Tools:

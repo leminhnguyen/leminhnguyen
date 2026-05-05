@@ -18,7 +18,7 @@ Hanoi University of Science and Technology (HUST)
 
 Hanoi University of Science and Technology (HUST)
 - B.E. in Software Engineering (2016 – 2021)
-- Valedictorian — GPA: 3.75
+- Valedictorian — CPA: 3.75
 ```
 
 ### Languages and Tools:

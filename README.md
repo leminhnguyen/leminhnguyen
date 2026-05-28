@@ -14,7 +14,7 @@ for real-world enterprise applications.
 Hanoi University of Science and Technology (HUST)
 - PhD Nominee
 - M.Sc. in Computer Science (2022 – 2024)
-- TOEIC: 785
+- TOEIC: 800
 
 Hanoi University of Science and Technology (HUST)
 - B.E. in Software Engineering (2016 – 2021)

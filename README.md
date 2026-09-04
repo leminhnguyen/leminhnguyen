@@ -12,7 +12,6 @@ for real-world enterprise applications.
 ### 🎓 Education
 ```
 Hanoi University of Science and Technology (HUST)
-- PhD Nominee
 - M.Sc. in Computer Science (2022 – 2024)
 - TOEIC: 800
 

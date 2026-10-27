@@ -24,13 +24,13 @@ Hanoi University of Science and Technology (HUST)
 
 ### 📚 Publications
 
-- **(3rd rank) [Twinkle-ASR: A lightweight and sufficient framework for the ASR shared task at VLSP 2025](https://aclanthology.org/2025.vlsp-1.3/)**  
+- **[(3rd rank) Twinkle-ASR: A lightweight and sufficient framework for the ASR shared task at VLSP 2025](https://aclanthology.org/2025.vlsp-1.3/)**  
   **Team Lead** -  *Proceedings of the 11th International Workshop on Vietnamese Language and Speech Processing*, pp. 14–22, 2025.
 
-- **(1st rank) [Twinkle-VC: A Robust and High-Quality Zero-Shot Voice Conversion System for the VLSP 2025 Shared Task](https://aclanthology.org/2025.vlsp-1.15/)**  
+- **[(1st rank) Twinkle-VC: A Robust and High-Quality Zero-Shot Voice Conversion System for the VLSP 2025 Shared Task](https://aclanthology.org/2025.vlsp-1.15/)**  
   **Team Lead** - *Proceedings of the 11th International Workshop on Vietnamese Language and Speech Processing*, pp. 104–111, 2025.
 
-- **(1st rank) [TTS - VLSP 2021: The NAVI’s Text-To-Speech System for Vietnamese](https://jcsce.vnu.edu.vn/index.php/jcsce/article/view/347)**  
+- **[(1st rank) TTS - VLSP 2021: The NAVI’s Text-To-Speech System for Vietnamese](https://jcsce.vnu.edu.vn/index.php/jcsce/article/view/347)**  
   **First Author** -  *VNU Journal of Science: Computer Science and Communication Engineering*, 38(1), 2022. [DOI](https://doi.org/10.25073/2588-1086/vnucsce.347)
 
 ### Languages and Tools:

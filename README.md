@@ -1,3 +1,5 @@
+![Profile views](https://komarev.com/ghpvc/?username=leminhnguyen)
+
 ### About Me 👋
 
 ```
